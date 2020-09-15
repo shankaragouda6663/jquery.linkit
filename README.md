@@ -8,7 +8,7 @@
 ##Usage##
 
 ##Vendor##
-jQuery - [http://jquery.com](www.jquery.com)
+jQuery - [http://www.jquery.com](www.jquery.com)
 
 ##Licence##
 MIT Licence
